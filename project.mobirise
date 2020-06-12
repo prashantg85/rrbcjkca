@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -219,7 +219,7 @@
           },
           "title": "JIU SOLUTIONS &nbsp;<br>KAKUMANU &amp; CO",
           "text": "<b>CHARTED ACCOUNTANTS, AUDITING , TAX CONSULTANTION, GST RETURNS &amp; BUSINESS CONSULTANTS.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_styles": {
             "H3": {
               "color": "#000000"
@@ -359,6 +359,43 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/large-eqpgfcyo6fanszn-pziblhrurtuyacapvdmqrm-jt5g-2000x863.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "JIU SOLUTIONS <br>&amp; <br>KAKUMANU &amp; CO",
+          "text": "As a firm of professionals and people assisting the profession, human capital at Kakumanu &amp; co associates is carefully cultivated to bring out the best in each. Senior professionals at the level of partners help in steering the firm to its goals of efficiency, transparency and quality.&nbsp;In addition to providing audit and legal support in the field of Indirect and Direct Taxes, the firm is being approached for consultancy services in various areas of taxation, legal, financing, business restructuring, cost and tax optimization and inbound and outbound investment strategies.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">In order to handle full-fledged consulting practise KAKUMANU &amp; CO was incorporated</span><br>The company is currently providing end to end outsourcing solutions relating to compliance of GST and Direct Tax to three large MNC Companies and two large domestic companies.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OUR TEAM</a> ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -419,7 +456,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -443,21 +480,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RRBC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-9",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HOME&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OUR TEAM<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OUR SERVICES</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NOTIFICATIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">BLOG</a></li>"
         },
         {
           "_tags": [
@@ -470,9 +493,9 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>GST SERVICES</p><p>Our GST team, provides services which makes the clients business compliant under GST Act. We are engaged in providing services like getting the client's business registered under GST Act, filing of periodic GST returns, dealing with GST Audit of the business, making representations on all issues of GST before the Authorities, taking up the appeal cases, etc. under the guidance of our experts.</p><p><br></p><p><br></p>",
+          "text2": "<p>TYPES OF AUDITS CONDUCTED:</p><p>Statutory Audit of Companies</p><p>Tax Audit under Section 44AB of the Income Tax Act, 1961.</p><p>Audit under other sections of the Income Tax Act, 1961 such as 80HHC, 80-IA, etc.</p><p>Concurrent Audits.</p><p>Revenue Audit of Banks.</p><p>Branch Audits of Banks.</p><p>Audit of PF Trusts, Charitable Trusts, Schools, etc.</p><p>Audit of Co-operative Socities.</p><p>Information System Audit</p><p>Internal Audits..</p>",
+          "text3": "<p>ACCOUNTING SERVICES</p><p>Accounting System Design &amp; Implementation</p><p>Financial Accounting</p><p>Budgeting</p><p>Financial Reporting</p><p>MIS Reports</p><p>Financial Analysis</p><p>Asset Accounting Management</p><p>Depreciation and Amortization Schedules</p>"
         },
         {
           "_tags": [
@@ -485,7 +508,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "Working closely with clients, our consultants help your company define new innovative target operating models to drive the business transformations needed to achieve success. Our teams are global and our management consultants’ experience runs deep.<div><br></div><div>Our extensive experience and deep connect with organizations across industry sectors along with our compact structure, focused approach and knowledge allow us to address problems and discover alternatives with ease. We have functional and industry expertise as well as extensive geographical understanding. We are passionate about the business of business success.</div>"
+          "text": "<p>BUSINESS ADVISORY SERVICES</p><p>Whether it’s dealing with you to safeguard your assets, fund your company growth, or develop an exit strategy to maximise your return for a cushty retirement, we offer business advice through practical and innovative solutions to assist you achieve your company goals.<div>Information is critical for businesses to help make the right decisions at the best time. Our advisors realize that a thorough suite of tailored advice and services can ensure optimal outcomes for the tax and business matters.</div><div>We offer advice to a varied array of clients with a varied array of needs and believe that it’s our breadth and depth of experience, and the capability to proactively provide solutions in an appropriate manner, that sets our firm in addition to the rest.</div><div>Focused on helping you grow your company and your profits, Allan Hall Business Advisors offers specialist business advising services primarily to small and medium enterprises. Our services include:</div><div>Business Review</div><div>Business Planning and Structuring</div><div>KPIs and Benchmarking</div><div>Budgeting and Cash Flow Management</div><div>Business Growth</div><div>Business Recovery</div><div>Succession Planning</div><div>We realize what it’s like to stay business, all things considered we’re too! The trials and tribulations of managing a small business are challenging and constantly changing. We help to supply reassurance with free telephone calls and meetings with a passionate and friendly business advisors.</div><div>MANAGING YOUR FINANCES</div><div>E accounHting focuses on the measurement, analysis and reporting of information that can help managers in making decisions to fulfil the goals of an organization. In management accounting, internal measures and reports are based on cost-benefit analysis, and are not required to follow the generally accepted accounting principle<br><div><br></div><div>Our extensive experience and deep connect with organizations across industry sectors along with our compact structure, focused approach and knowledge allow us to address problems and discover alternatives with ease. We have functional and industry expertise as well as extensive geographical understanding. We are passionate about the business of business success.</div></div></p>"
         }
       ]
     }

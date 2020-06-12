@@ -440,6 +440,12 @@ h6,
 #form1-4 .form-control-label {
   color: #232323;
 }
+#header1-k .mbr-section-lead {
+  color: #ffffff;
+}
+#header1-k .mbr-section-title {
+  font-size: 36px;
+}
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
